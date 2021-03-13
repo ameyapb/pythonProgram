@@ -1,8 +1,4 @@
 # smartDirectoryManagementSystem
 A python automation project for Windows 10, where files an be sorted out based on their extensions.
 
-Types of Extensions supported:
--Text
--Images
--Docs
--Others
+Types of Extensions supported: Text, Images, Docs and Others
